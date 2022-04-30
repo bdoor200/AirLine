@@ -1,0 +1,35 @@
+{
+  "title": "AirLine's Blog",
+  "flights": [
+    { 
+     "id": "1",
+      "name": "KSA TO GERMANY",
+      "Price": "400 SAR"
+    },
+    {
+      "id": "2",
+      "name": "KSA TO USA",
+      "Price": "500 SAR"
+    },
+    { 
+      "id": "3",
+      "name": "KSA TO UAE",
+      "Price": "200 SAR"
+    },
+    { 
+      "id": "4",
+      "name": "KSA TO EGYPT",
+      "Price": "250 SAR"
+    },
+    { 
+      "id": "5",
+      "name": "KSA TO ITALY",
+      "Price": "350 SAR"
+    },
+    { 
+      "id": "6",
+      "name": "KSA TO RUSSIA",
+      "Price": "420 SAR"
+    }
+  ]
+}
